@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "La Lorraine",
+    "online_menu": "https://llbg.com/nl-BE/producten",
+    "search_url": "https://llbg.com/products?search=<criteria>"
+  },
+  {
+    "id": 2,
+    "name": "Panos",
+    "online_menu": "https://www.panos.be/nl/producten",
+    "search_url": "https://www.panos.be/nl/zoeken?query=<criteria>"
+  },
+  {
+    "id": 3,
+    "name": "tarteamoi",
+    "online_menu": "https://www.tarteamoi.be/nl/onze-taarten#all-products"
+  },
+  {
+    "id": 4,
+    "name": "happygateau",
+    "online_menu": "https://happygateau.lalorraine.be/nl/shop"
+  }
+]
